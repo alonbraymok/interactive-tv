@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/interactive-tv/static/css/main.2a0e629c.chunk.css",
+    "main.js": "/interactive-tv/static/js/main.09f04917.chunk.js",
+    "main.js.map": "/interactive-tv/static/js/main.09f04917.chunk.js.map",
+    "runtime-main.js": "/interactive-tv/static/js/runtime-main.1b9119ca.js",
+    "runtime-main.js.map": "/interactive-tv/static/js/runtime-main.1b9119ca.js.map",
+    "static/js/2.3e41be9c.chunk.js": "/interactive-tv/static/js/2.3e41be9c.chunk.js",
+    "static/js/2.3e41be9c.chunk.js.map": "/interactive-tv/static/js/2.3e41be9c.chunk.js.map",
+    "static/js/3.60e22a3e.chunk.js": "/interactive-tv/static/js/3.60e22a3e.chunk.js",
+    "static/js/3.60e22a3e.chunk.js.map": "/interactive-tv/static/js/3.60e22a3e.chunk.js.map",
+    "index.html": "/interactive-tv/index.html",
+    "static/css/main.2a0e629c.chunk.css.map": "/interactive-tv/static/css/main.2a0e629c.chunk.css.map",
+    "static/js/2.3e41be9c.chunk.js.LICENSE.txt": "/interactive-tv/static/js/2.3e41be9c.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/interactive-tv/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b9119ca.js",
+    "static/js/2.3e41be9c.chunk.js",
+    "static/css/main.2a0e629c.chunk.css",
+    "static/js/main.09f04917.chunk.js"
+  ]
+}
